@@ -1,0 +1,14 @@
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/obj/Debug/net8.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfoInputs.cache
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfo.cs
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/obj/Debug/net8.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/bin/Debug/net8.0/Lab2
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/bin/Debug/net8.0/Lab2.deps.json
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/bin/Debug/net8.0/Lab2.runtimeconfig.json
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/bin/Debug/net8.0/Lab2.dll
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/bin/Debug/net8.0/Lab2.pdb
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/obj/Debug/net8.0/Lab2.dll
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/obj/Debug/net8.0/refint/Lab2.dll
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/obj/Debug/net8.0/Lab2.pdb
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/obj/Debug/net8.0/Lab2.genruntimeconfig.cache
+/Users/levhluhchenko/education/oop/Lab2/Lab2/Lab2/obj/Debug/net8.0/ref/Lab2.dll
